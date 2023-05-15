@@ -1,5 +1,6 @@
 <template>
   <section
+    id="tips"
     class="w-full p-16 bg-[#fde68a] font-serif flex flex-col justify-center items-center"
   >
     <h1 class="text-2xl font-bold mb-8 mt-8">
