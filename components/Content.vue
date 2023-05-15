@@ -5,11 +5,18 @@
     <h1 class="text-2xl font-bold mb-8 mt-8">
       Tips dari buku <span class="underline">Atomic Habits</span>
     </h1>
+
+    <!-- <Card>
+      Fokuslah pada perubahan kecil seiring waktu: Alih-alih mencoba untuk
+      melakukan perubahan besar dan drastis dalam hidup Anda, fokuslah pada
+      kebiasaan kecil yang dapat Anda lakukan secara konsisten setiap hari.
+    </Card> -->
+    <!-- card 1 -->
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?focus"
         alt=""
       />
@@ -21,11 +28,12 @@
       </h2>
     </div>
 
+    <!-- card 2 -->
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?habit"
         alt=""
       />
@@ -37,10 +45,10 @@
       </h2>
     </div>
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?gift"
         alt=""
       />
@@ -53,10 +61,10 @@
     </div>
 
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?friend"
         alt=""
       />
@@ -68,10 +76,10 @@
       </h2>
     </div>
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?easy"
         alt=""
       />
@@ -84,10 +92,10 @@
     </div>
 
     <div
-      class="sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
+      class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
     >
       <img
-        class="sm:w-full sm:h-64 sm:object-cover sm:object-center"
+        class="w-full sm:w-full sm:h-64 sm:object-cover sm:object-center"
         src="https://source.unsplash.com/400x400?wrong"
         alt=""
       />
