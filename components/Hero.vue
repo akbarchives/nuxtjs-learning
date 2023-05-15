@@ -5,7 +5,7 @@
     >
       <div class="flex flex-row pt-24 gap-6 justify-center items-center">
         <img
-          class="hidden sm:block md:block lg:block sm:mt-5 sm:w-[700px] sm:h-[300px] md:w-[1200px] overflow-hidden scale-120 border-none rounded-lg object-cover"
+          class="hidden sm:block md:block lg:block sm:mt-5 sm:w-[700px] sm:h-[300px] md:w-[1200px] lg:h-[420px] overflow-hidden scale-120 border-none rounded-lg object-cover"
           src="https://www.vivekarvind.com/content/images/2022/02/Atomic_Habits-2.png"
           alt=""
         />
