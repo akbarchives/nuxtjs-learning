@@ -2,8 +2,7 @@
   <div>
     <!-- components Navbar -->
     <Navbar></Navbar>
-
-    <!-- content -->
+    <!-- connten -->
     <slot />
 
     <!-- footer -->

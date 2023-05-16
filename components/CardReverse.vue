@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row justify-center items-center shadow-lg"
+    class="w-full sm:w-full md:w-full lg:w-2/3 lg:mx-64 rounded-lg overflow-hidden mb-6 bg-white flex flex-col sm:flex-col md:flex-row-reverse justify-center items-center shadow-lg"
   >
     <slot></slot>
     <h2 class="p-4 ml-8">
@@ -16,5 +16,6 @@ const props = defineProps({
   id: String,
   title: String,
   desc: String,
+  imgURL: String,
 });
 </script>
