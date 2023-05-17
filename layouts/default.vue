@@ -1,8 +1,8 @@
 <template>
   <div>
     <!-- components Navbar -->
-    <Navbar></Navbar>
+    <Navbar />
     <slot />
-    <Footer></Footer>
+    <Footer />
   </div>
 </template>
