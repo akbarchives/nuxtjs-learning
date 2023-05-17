@@ -1,12 +1,12 @@
 <template>
-  <div class="pt-16">
+  <div class="pt-24 sm:pt-16 md:pt-16 lg:pt-16">
     <img
       class="min-w-full"
       src="~/assets/img/james-clear.webp"
       alt=""
     />
-    <article class="px-64 py-32">
-      <h1>James Clear</h1>
+    <article class="px-12 sm:px-12 md:px-12 lg:px-64 py-32">
+      <h1 class="">James Clear</h1>
       <!-- Content -->
       <p class="mt-16 text-lg leading-relaxed">
         James Clear is a popular author, speaker, and entrepreneur who has made

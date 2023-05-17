@@ -1,6 +1,6 @@
 <template>
   <div class="pt-16">
-    <article class="px-64 py-32">
+    <article class="px-12 sm:px-12 md:px-12 lg:px-64 py-32">
       <h1>Mengapa Harus Fokus?</h1>
       <!-- Content -->
       <p class="mt-16 text-lg leading-relaxed">
